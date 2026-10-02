@@ -1,0 +1,13 @@
+{
+  "version": "0.1.1-demo",
+  "platform": "windows-x86_64",
+  "configuration": "ExportRelease",
+  "godot": "4.7.stable.mono.official.5b4e0cb0f",
+  "buildSdk": "10.0.400",
+  "bundledRuntime": "8.0.30",
+  "sourceCommit": "b3d73c71ed210ea7547a6814377b9b77fda8ca55",
+  "sourceWorkingTreeDirty": true,
+  "builtAtUtc": "2026-10-02T13:22:14.0159397Z",
+  "smokeTestPassed": true,
+  "smokeTestMode": "graphical"
+}
