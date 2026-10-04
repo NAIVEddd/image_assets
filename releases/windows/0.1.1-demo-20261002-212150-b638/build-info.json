@@ -5,9 +5,9 @@
   "godot": "4.7.stable.mono.official.5b4e0cb0f",
   "buildSdk": "10.0.400",
   "bundledRuntime": "8.0.30",
-  "sourceCommit": "7af109724912a20d3c3bb5748f68df78b3881185",
-  "sourceWorkingTreeDirty": true,
-  "builtAtUtc": "2026-10-03T13:56:55.3839582Z",
+  "sourceCommit": "bfbf2896405024a2d99be1ca77929a43ccff4d18",
+  "sourceWorkingTreeDirty": false,
+  "builtAtUtc": "2026-10-04T11:26:02.5936576Z",
   "smokeTestPassed": true,
   "smokeTestMode": "graphical"
 }
