@@ -2,7 +2,7 @@
   "version": "0.1.1-demo",
   "platform": "windows-x86_64",
   "fontVerificationPassed": true,
-  "fontCodepoints": 1029,
+  "fontCodepoints": 1030,
   "fontWeights": [
     400,
     500,
@@ -12,9 +12,9 @@
   "godot": "4.7.stable.mono.official.5b4e0cb0f",
   "buildSdk": "10.0.400",
   "bundledRuntime": "8.0.30",
-  "sourceCommit": "5ccccb54692354528e20d81cb27bee94b4a7f3dd",
+  "sourceCommit": "a0a07df43723eb246bed2c1b7ba88dd283ef3aa6",
   "sourceWorkingTreeDirty": false,
-  "builtAtUtc": "2026-10-06T08:35:20.9186418Z",
+  "builtAtUtc": "2026-10-10T11:04:32.4315677Z",
   "smokeTestPassed": true,
   "smokeTestMode": "graphical"
 }
