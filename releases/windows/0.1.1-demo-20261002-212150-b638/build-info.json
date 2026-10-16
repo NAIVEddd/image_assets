@@ -1,17 +1,20 @@
 {
   "version": "0.1.1-demo",
   "platform": "windows-x86_64",
+  "fontVerificationPassed": true,
+  "fontCodepoints": 1045,
+  "fontWeights": [
+    400,
+    500,
+    700
+  ],
   "configuration": "ExportRelease",
   "godot": "4.7.stable.mono.official.5b4e0cb0f",
   "buildSdk": "10.0.400",
   "bundledRuntime": "8.0.30",
-  "sourceCommit": "d198069ef881b405a24a5712e82b756e2f04350d",
+  "sourceCommit": "84f591766d80ed006219cbe2b9e2504893fba7ed",
   "sourceWorkingTreeDirty": false,
-  "sourcePublished": false,
-  "builtAtUtc": "2026-10-15T14:53:57.1629244Z",
-  "smokeTestPassed": false,
-  "smokeTestMode": "skipped",
-  "fontVerificationPassed": null,
-  "fontVerificationMode": "skipped",
-  "validationNote": "按用户要求未运行测试、场景或性能验证；只进行导出、文件完整性及归档校验。"
+  "builtAtUtc": "2026-10-16T00:46:59.1778756Z",
+  "smokeTestPassed": true,
+  "smokeTestMode": "graphical"
 }
