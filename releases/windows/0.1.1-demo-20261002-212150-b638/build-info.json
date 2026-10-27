@@ -1,8 +1,12 @@
 {
   "version": "0.1.1-demo",
   "platform": "windows-x86_64",
+  "uiAtlasVerificationPassed": true,
+  "uiAtlasPolicyVersion": 1,
+  "uiAtlasCount": 16,
+  "uiAtlasPackageSha256": "c6b8c957d1714eeea0042f89f53d910df6b9f00fe48dbe239b6371d8a7432d08",
   "fontVerificationPassed": true,
-  "fontCodepoints": 1047,
+  "fontCodepoints": 1072,
   "fontWeights": [
     400,
     500,
@@ -12,9 +16,9 @@
   "godot": "4.7.stable.mono.official.5b4e0cb0f",
   "buildSdk": "10.0.400",
   "bundledRuntime": "8.0.30",
-  "sourceCommit": "b93d5543c722b6724f373c69dd2a2e8dcd51640e",
+  "sourceCommit": "35e52e13508303d268275e4c0c4fbbf0304503bd",
   "sourceWorkingTreeDirty": false,
-  "builtAtUtc": "2026-10-21T13:16:40.1187276Z",
+  "builtAtUtc": "2026-10-27T01:04:10.7363480Z",
   "smokeTestPassed": true,
   "smokeTestMode": "graphical"
 }
