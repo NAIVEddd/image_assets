@@ -1,0 +1,25 @@
+{
+  "edition": "game",
+  "version": "0.2.0-dev",
+  "platform": "windows-x86_64",
+  "uiAtlasVerificationPassed": true,
+  "uiAtlasPolicyVersion": 1,
+  "uiAtlasCount": 16,
+  "uiAtlasPackageSha256": "51e5854d4805eaedc37493c4f79b22083d5c2d885a03d3fd75e5414ad4ac078f",
+  "fontVerificationPassed": true,
+  "fontCodepoints": 1199,
+  "fontWeights": [
+    400,
+    500,
+    700
+  ],
+  "configuration": "ExportRelease",
+  "godot": "4.7.stable.mono.official.5b4e0cb0f",
+  "buildSdk": "10.0.400",
+  "bundledRuntime": "8.0.30",
+  "sourceCommit": "43d715a4124c88f8fc3580c5bf637e2d62113126",
+  "sourceWorkingTreeDirty": false,
+  "builtAtUtc": "2026-11-06T12:01:36.3653040Z",
+  "smokeTestPassed": true,
+  "smokeTestMode": "graphical"
+}
