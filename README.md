@@ -3,17 +3,17 @@
 
 ## Fluffy Ranch Windows 正式版
 
-最新正式版构建：`0.2.0-dev-20261107-120926-f7c2`（源码 `a3d93669`）。当前版本为 `0.2.0-dev`，Release 导出，已通过独立发行包图形自检、字体与图集检查。
+最新正式版构建：`0.2.0-dev-20261107-203307-5a41`（源码 `8e63e235`）。当前版本为 `0.2.0-dev`，已通过独立发行包图形自检、字体与图集检查。
 
-- [下载正式版 ZIP](releases/windows/game/0.2.0-dev-20261107-120926-f7c2/FluffyRanch-0.2.0-dev-win-x64.zip)
-- [SHA-256 校验文件](releases/windows/game/0.2.0-dev-20261107-120926-f7c2/FluffyRanch-0.2.0-dev-win-x64.zip.sha256)
-- [构建信息](releases/windows/game/0.2.0-dev-20261107-120926-f7c2/build-info.json)
+- [下载正式版 ZIP](releases/windows/0.1.1-demo-20261002-212150-b638/FluffyRanchDemo-0.1.1-demo-win-x64.zip)
+- [SHA-256 校验文件](releases/windows/0.1.1-demo-20261002-212150-b638/FluffyRanchDemo-0.1.1-demo-win-x64.zip.sha256)
+- [构建信息](releases/windows/0.1.1-demo-20261002-212150-b638/build-info.json)
 
 完整解压后运行 `FluffyRanch.exe`，保留同目录的 PCK 和运行库。存档目录为 `FluffyRanch/Game`。ZIP 使用 Git LFS 保存，Git 克隆后需执行 `git lfs pull`。
 
 ## Fluffy Ranch Windows 固定下载入口
 
-最新构建：`0.2.0-dev-20261107-120926-f7c2`（源码 `a3d93669`），已通过独立发行包图形自检、字体与图集检查。
+最新构建：`0.2.0-dev-20261107-203307-5a41`（源码 `8e63e235`），已通过独立发行包图形自检、字体与图集检查。
 
 下载目录和 ZIP 文件名固定沿用原试玩版地址，已分享的链接继续有效。当前 ZIP 内为最新版正式版开发构建 `0.2.0-dev`，实际版本、来源提交与校验值见构建信息。
 
