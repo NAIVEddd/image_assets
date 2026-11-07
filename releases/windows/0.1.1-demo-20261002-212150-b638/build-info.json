@@ -1,12 +1,13 @@
 {
-  "version": "0.1.1-demo",
+  "edition": "game",
+  "version": "0.2.0-dev",
   "platform": "windows-x86_64",
   "uiAtlasVerificationPassed": true,
   "uiAtlasPolicyVersion": 1,
   "uiAtlasCount": 16,
-  "uiAtlasPackageSha256": "e5e46ed138f40d78c18d862894c69563a79afe5e85a4d8c99622d12e8ae02688",
+  "uiAtlasPackageSha256": "0da4773e67e129cac666722b07bf66dc015aa4f8755204ff8f1933eb77952c5d",
   "fontVerificationPassed": true,
-  "fontCodepoints": 1171,
+  "fontCodepoints": 1196,
   "fontWeights": [
     400,
     500,
@@ -16,9 +17,11 @@
   "godot": "4.7.stable.mono.official.5b4e0cb0f",
   "buildSdk": "10.0.400",
   "bundledRuntime": "8.0.30",
-  "sourceCommit": "12060914b324f6b8be51a1dcbfd89bf9f4cfb337",
+  "sourceCommit": "a3d936696b735d1603102fd1247c8dd973e1e408",
   "sourceWorkingTreeDirty": false,
-  "builtAtUtc": "2026-10-28T05:26:28.6898144Z",
+  "builtAtUtc": "2026-11-07T04:10:24.4408601Z",
   "smokeTestPassed": true,
-  "smokeTestMode": "graphical"
+  "smokeTestMode": "graphical",
+  "smokeTestGpuIndex": 0,
+  "smokeTestAdapter": "NVIDIA GeForce RTX 5070 Ti Laptop GPU"
 }

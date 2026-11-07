@@ -11,16 +11,16 @@
 
 完整解压后运行 `FluffyRanch.exe`，保留同目录的 PCK 和运行库。存档目录为 `FluffyRanch/Game`。ZIP 使用 Git LFS 保存，Git 克隆后需执行 `git lfs pull`。
 
-## Fluffy Ranch Windows 试玩包
+## Fluffy Ranch Windows 固定下载入口
 
-最新构建：`0.1.1-demo-20261028-132448-2a73`（源码 `12060914`），已通过图形自检。
+最新构建：`0.2.0-dev-20261107-120926-f7c2`（源码 `a3d93669`），已通过独立发行包图形自检、字体与图集检查。
 
-下载目录和 ZIP 文件名固定沿用首发版本，已分享的链接保持有效；实际构建时间、源码提交及校验值见下面的构建信息与 SHA-256 文件。
+下载目录和 ZIP 文件名固定沿用原试玩版地址，已分享的链接继续有效。当前 ZIP 内为最新版正式版开发构建 `0.2.0-dev`，实际版本、来源提交与校验值见构建信息。
 
 - [下载 ZIP](releases/windows/0.1.1-demo-20261002-212150-b638/FluffyRanchDemo-0.1.1-demo-win-x64.zip)
 - [SHA-256 校验文件](releases/windows/0.1.1-demo-20261002-212150-b638/FluffyRanchDemo-0.1.1-demo-win-x64.zip.sha256)
 - [构建信息](releases/windows/0.1.1-demo-20261002-212150-b638/build-info.json)
 
-ZIP 使用 Git LFS 保存。通过 Git 获取时，请安装 Git LFS，并在克隆后执行 `git lfs pull`。完整解压 ZIP 后，运行目录中的 `FluffyRanchDemo.exe`；保留同目录的 PCK 和运行库文件。
+完整解压后运行 `FluffyRanch.exe`，保留 PCK、运行库和其他文件。存档目录为 `FluffyRanch/Game`。
 
-本机解压目录与 ZIP 位于同一构建目录下，供直接启动，已排除在 Git 提交之外。
+ZIP 使用 Git LFS 保存。通过 Git 获取时，请安装 Git LFS，并执行 `git lfs pull`。
